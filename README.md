@@ -1,6 +1,3 @@
-# google-places-api-city-matcher
-Given city names match PlaceID Using Google Places API.
-
 # Google Places API City Matcher
 
 Bu proje, Google Places API kullanarak şehir isimlerini yer kimlikleri (place ID) ile eşleştiren bir araçtır.
