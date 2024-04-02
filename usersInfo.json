@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "title": "user",
+      "age": 30,
+      "gender": "M",
+      "username": "aliuyanik16",
+      "name": "Ali",
+      "surname": "Uyanık",
+      "email": "aliuyanik@example.com",
+      "preferences": {
+        "activities": ["hiking", "swimming"],
+        "budget": "medium",
+        "travelStyle": "adventure",
+        "seasonPreferences": ["spring", "summer"],
+        "cultureInterests": ["history", "culture"],
+        "accommodationPreferences": ["cave hotels", "boutique hotels", "camping"],
+        "entertainmentPreferences": ["hot air balloon ride", "wine tasting", "night club"],
+        "restaurantPreferences": ["Geleneksl Türk", "Indian"]
+      }
+      
+  
+    }
+  ]
+}

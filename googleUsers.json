@@ -1,0 +1,22 @@
+[
+    {
+      "userId": "1",
+      "age": 30,
+      "gender": "M",
+      "preferences": {
+        "activities": ["hiking", "swimming"],
+        "budget": "medium",
+        "travelStyle": "adventure"
+      }
+    },
+    {
+      "userId": "2",
+      "age": 25,
+      "gender": "F",
+      "preferences": {
+        "activities": ["museum", "art"],
+        "budget": "low",
+        "travelStyle": "cultural"
+      }
+    }
+  ]

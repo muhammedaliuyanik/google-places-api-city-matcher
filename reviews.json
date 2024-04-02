@@ -1,0 +1,16 @@
+  [
+    {
+      "reviewId": "1",
+      "userId": "1",
+      "placeId": "2",
+      "rating": 5,
+      "comment": "Amazing experience with beautiful beaches and friendly locals!"
+    },
+    {
+      "reviewId": "2",
+      "userId": "2",
+      "placeId": "1",
+      "rating": 4,
+      "comment": "Loved the museums and historical sites. A bit crowded though."
+    }
+  ]
