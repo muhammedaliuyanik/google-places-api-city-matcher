@@ -43,12 +43,12 @@ sendRequests();
 //******************************************************************* */
 
 // Türkçe hataları düzelten script.
-
+/*
 const fs = require('fs');
 const fetch = require('node-fetch');
 
 // Google Places API anahtarınız
-const apiKey = 'AIzaSyB47VWFSvsgogEmQHUFGAjh1TfZFv0EM5E';
+const apiKey = 'API_KEY';
 
 // Yer adını çekmek için fonksiyon
 async function getPlaceName(placeId) {
@@ -122,3 +122,4 @@ fs.readFile('places.json', 'utf8', async (err, data) => {
         console.error('JSON verisi parse edilirken hata oluştu:', error);
     }
 });
+*/
