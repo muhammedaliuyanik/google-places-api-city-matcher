@@ -97,7 +97,7 @@
   },
   {
     "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
-    "name": "Virgin Mary Catholic Church",
+    "name": "Mother Mary Church",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -108,26 +108,14 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJ8bSzSEVwgkARPnGIre9nOkk",
-    "name": "Kahramankazan",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
     "name": "Kayseri Surp Krikor Lusavoric Armenian Church",
     "city": "Kayseri",
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJg5TN8qDu1hQRHe6c3v97AaU",
-    "name": "Sultanhanı Caravanserai",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJb-cqGpi8KxURbpXuWpDHgQY",
-    "name": "Yeni Cami",
+    "name": "YENİ CAMİ: Bürüngüz Camii",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -174,12 +162,6 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJqyGJfZZP0xQR0KnPSk5G5fc",
-    "name": "LOSEV - Children's Leukemia Foundation",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
     "name": "Kıranardı Mesire Alanı",
     "city": "Kayseri",
@@ -210,12 +192,6 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJAUtLZ4K_vRURQtTcuxAVRCw",
-    "name": "Al Baqi Cemetery",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
     "name": "Agirnas Underground City",
     "city": "Kayseri",
@@ -224,18 +200,6 @@
   {
     "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
     "name": "Felahiye 15 Temmuz Şehitler Parkı",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJaQCm8uVF0xQRxZLsVK3XNC4",
-    "name": "Eker Süt Ürünleri",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJszPUpRZM0xQRHG4WfyUAgy8",
-    "name": "Pinarkaya Turizm",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -252,12 +216,6 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJwXGXbNs-KBUR7Ilc_VBdiLQ",
-    "name": "Pozantı Akça Tekir Plateau",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
     "name": "Sarımsaklı Mesire Alanı",
     "city": "Kayseri",
@@ -270,20 +228,8 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJy_2Fl2s30xQRcazmeqjb8Cw",
-    "name": "Batıkent Rekreasyon Alanı",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
     "name": "Kapuzbaşı Selalesi Kayseri",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJK32mcW6gvhQRpcZURKZB4x8",
-    "name": "Aydın Güzelçamlı Dilek Yarımadası Milli Parkı",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -300,20 +246,8 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJi9FQknJHxBQReF24Qmh277Y",
-    "name": "Ali Rıza Bey Ormanı",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
     "name": "Burunguz Mosque",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJk05jsN1BgkARFNYPSlDAU0M",
-    "name": "Kavşakkaya Dam",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -337,25 +271,13 @@
   },
   {
     "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
-    "name": "Ercİyes Ski Resort",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJO5TxwLxBwBQRNQd-s0ZVGyM",
-    "name": "Yamaç Paraşütü Ali Ünlü",
+    "name": "Erciyes Ski Resort",
     "city": "Kayseri",
     "country": "Turkey"
   },
   {
     "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
     "name": "Sultansazlığı Kuş Cennet",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJQ_RZIjwOKxURa5cGAweQW2Y",
-    "name": "Kayseri Erciyesspor Kulübü",
     "city": "Kayseri",
     "country": "Turkey"
   },
@@ -372,50 +294,26 @@
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJN3aSbs1S0xQRn3pTaTjqml0",
-    "name": "Rod 1 Dam",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJy2Dio7BLnUAR0g_T6Z4fxpE",
-    "name": "Kartalkaya Ski Center",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
     "name": "Erciyes Ski Center",
     "city": "Kayseri",
     "country": "Turkey"
   },
   {
-    "placeId": "ChIJEx7yqDoT1hQREQ62mnhkvdM",
-    "name": "HELVADERE PİKNİK ALANI",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJPU4DgrVF0xQRfBehsVsVKdE",
-    "name": "So ankara",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJxxFeF7e8gkAR_5_lmrpx4rA",
-    "name": "Eğriova Nature Park",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
-    "placeId": "ChIJozAXoHMruRQRmDkHl-wVhiA",
-    "name": "Aytepe Picnic Area",
-    "city": "Kayseri",
-    "country": "Turkey"
-  },
-  {
     "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
     "name": "Evliyalar Mesire Alanı",
+    "city": "Kayseri",
+    "country": "Turkey"
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "name": "Bestepe Picnic Area",
+    "city": "Kayseri",
+    "country": "Turkey"
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "name": "Ali Mountain Recreation Area",
     "city": "Kayseri",
     "country": "Turkey"
   }
