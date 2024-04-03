@@ -1,16 +1,2032 @@
-  [
-    {
-      "reviewId": "1",
-      "userId": "1",
-      "placeId": "2",
-      "rating": 5,
-      "comment": "Amazing experience with beautiful beaches and friendly locals!"
-    },
-    {
-      "reviewId": "2",
-      "userId": "2",
-      "placeId": "1",
-      "rating": 4,
-      "comment": "Loved the museums and historical sites. A bit crowded though."
-    }
-  ]
+[
+  {
+    "reviewId": "1",
+    "userId": "1",
+    "placeId": "2",
+    "rating": 5,
+    "comment": "Amazing experience with beautiful beaches and friendly locals!"
+  },
+  {
+    "reviewId": "2",
+    "userId": "2",
+    "placeId": "1",
+    "rating": 4,
+    "comment": "Loved the museums and historical sites. A bit crowded though."
+  },
+  {
+    "placeId": "ChIJ37kQyA8SKxURoUyhi-bivM0",
+    "placeName": "Hunat Hatun Camii ve Külliyesi",
+    "rating": 4,
+    "comment": "Absolutely beautiful mosque with historical significance.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ37kQyA8SKxURoUyhi-bivM0",
+    "placeName": "Hunat Hatun Camii ve Külliyesi",
+    "rating": 5,
+    "comment": "It's beautiful to visit the historical sites as Hunat Hatun.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ37kQyA8SKxURoUyhi-bivM0",
+    "placeName": "Hunat Hatun Camii ve Külliyesi",
+    "rating": 4,
+    "comment": "The oldest mosque in Kayseri",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ37kQyA8SKxURoUyhi-bivM0",
+    "placeName": "Hunat Hatun Camii ve Külliyesi",
+    "rating": 5,
+    "comment": "Historic mosque.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ37kQyA8SKxURoUyhi-bivM0",
+    "placeName": "Hunat Hatun Camii ve Külliyesi",
+    "rating": 5,
+    "comment": "The large social complex built in the city center of Kayseri in 1238 by Mahperi Hunad Hatun, wife of Alaaddin Keykubad I.\nfountain\nMosque\nOur Social Complex with its Magnificent Stone and Wooden Workmanship, consisting of an Inn, is worth seeing.",
+    "date": "4 weeks ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC_2Ov6X7hEAR-Nc-x53u8U0",
+    "placeName": "Tefekkür Medresesi",
+    "rating": 5,
+    "comment": "And in this frightening transformation, the smiling and beautiful faces of mercy and wisdom are visible in this madrasah.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC_2Ov6X7hEAR-Nc-x53u8U0",
+    "placeName": "Tefekkür Medresesi",
+    "rating": 5,
+    "comment": "God bless you.\n\nYes, since the pillars of imitation of faith against the horrors of this century have been shaken, moved away and curtained; Every believer needs to have a very strong, investigative faith that will enable him to resist the collective attack of misguidance, alone, in order to be able to endure it.\n\nletter",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC_2Ov6X7hEAR-Nc-x53u8U0",
+    "placeName": "Tefekkür Medresesi",
+    "rating": 5,
+    "comment": "The address of believers who seek their Lord",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC_2Ov6X7hEAR-Nc-x53u8U0",
+    "placeName": "Tefekkür Medresesi",
+    "rating": 5,
+    "comment": "The heavens envy the earth; one or two men, one or two breaths, that is, one or two minutes, sit together on the earth to chat, dhikr and meditate on the earth; they experience the beautiful works of mercy of their own Maker, and many things. By showing each other their wise and ornamental works of art, they make others love their Maker and make them think and think.\nFrom Risale-i Nur",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC_2Ov6X7hEAR-Nc-x53u8U0",
+    "placeName": "Tefekkür Medresesi",
+    "rating": 5,
+    "comment": "Masha'Allah, it's a very nice place, and the staff's attention to detail is a 10.",
+    "date": "10 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ2TCjQosTKxUR8ACFCDPghPA",
+    "placeName": "Güpgüpoğlu Konağı & Etnografya Müzesi",
+    "rating": 4,
+    "comment": "Really interesting Ottoman Turkish house. Houses are distinguished between houses for women and men. In this museum we can see how their lives seem to be separate, but still side by side. In one of the rooms there are various kinds of men's and women's clothes, weapons including ways to preserve food in the old riding era.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ2TCjQosTKxUR8ACFCDPghPA",
+    "placeName": "Güpgüpoğlu Konağı & Etnografya Müzesi",
+    "rating": 4,
+    "comment": "Entrance is free and the museum does give a good insight into life in the past. Only takes 20 minutes to explore, although not the best Ethnography museum that i have been to.",
+    "date": "10 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ2TCjQosTKxUR8ACFCDPghPA",
+    "placeName": "Güpgüpoğlu Konağı & Etnografya Müzesi",
+    "rating": 5,
+    "comment": "Beautiful outside. I haven't possiblity to visit it",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ2TCjQosTKxUR8ACFCDPghPA",
+    "placeName": "Güpgüpoğlu Konağı & Etnografya Müzesi",
+    "rating": 4,
+    "comment": "The children loved it very much.. We enjoyed visiting it... We did not pay because we had a museum card everywhere in the center... They did not charge a fee for the children... The price was very reasonable...",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ2TCjQosTKxUR8ACFCDPghPA",
+    "placeName": "Güpgüpoğlu Konağı & Etnografya Müzesi",
+    "rating": 4,
+    "comment": "This museum, whose entrance is free with a museum card, is very well preserved. There are findings from various historical periods in the mansion. In this type of mansion, music that gives a pleasant Ottoman and Seljuk atmosphere can be nice in the background, and this is the only thing I can recommend for the museum. It would be nice if Turkish citizens also visit and support the museum.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ__8yiScQKxUR_uPg07IIrAI",
+    "placeName": "Kadir Has Stadium",
+    "rating": 4,
+    "comment": "It's a huge complex. More signs required for people to find what they're looking for. Now, it's a hassle to get to your place if you can't find the right person whi knows where it's. Good luck!",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ__8yiScQKxUR_uPg07IIrAI",
+    "placeName": "Kadir Has Stadium",
+    "rating": 5,
+    "comment": "Well designed stadium to watch football.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ__8yiScQKxUR_uPg07IIrAI",
+    "placeName": "Kadir Has Stadium",
+    "rating": 5,
+    "comment": "The stadium is really ver good and very well maintained. There is also active grass in the stadium .overall always clean and  looks so beautiful from inside as well as from outside.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ__8yiScQKxUR_uPg07IIrAI",
+    "placeName": "Kadir Has Stadium",
+    "rating": 5,
+    "comment": "Beautiful playground",
+    "date": "a week ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ__8yiScQKxUR_uPg07IIrAI",
+    "placeName": "Kadir Has Stadium",
+    "rating": 5,
+    "comment": "Very nice stadium good friendly staff and safe. Happy to visited",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHyogJgQSKxURgVy3pdfht_s",
+    "placeName": "Melik Mehmet Gazi Türbesi",
+    "rating": 5,
+    "comment": "It is known that Danişmentli ruler Melik Mehmed Gazi died on January 6, 1143 and was buried in the mausoleum in his own social complex.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHyogJgQSKxURgVy3pdfht_s",
+    "placeName": "Melik Mehmet Gazi Türbesi",
+    "rating": 5,
+    "comment": "The entrance to the tomb located on the qibla side of the grand mosque was closed. We had to visit from outside. The warning on the side of the tomb is also very meaningful. A warning was made about what might happen due to moldy bread given to pigeons.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHyogJgQSKxURgVy3pdfht_s",
+    "placeName": "Melik Mehmet Gazi Türbesi",
+    "rating": 5,
+    "comment": "Melik Mehmet Gazi Tomb\nMelikgazi Madrasa was located in the location of this tomb, which is located to the south of Kayseri Ulu Mosque. The Tomb of Melik Mehmet Gazi was built in one of the madrasah cells adjacent to the mosque wall. This tomb belongs to Melik Mehmed Gazi, the third ruler of the Danishmends and the person who had the Ulu Mosque built.\n\nThe tomb does not have an inscription. Considering that Melik Gazi died in 1143 H. (1730), it is thought that this tomb was built on the same date. Today, the front of the tomb and the madrasah are arranged as a park.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHyogJgQSKxURgVy3pdfht_s",
+    "placeName": "Melik Mehmet Gazi Türbesi",
+    "rating": 5,
+    "comment": "Melikgazi Madrasa was located on the site where this tomb is located, to the south of the Kayseri Ulu Mosque. The tomb of Melik Mehmet Gazi was built next to the mosque wall in one of the madrasa cells. This tomb belongs to Melik Mehmed Gazi, the third Danischmenden ruler who built the Ulu Mosque.\n\nThis visit was part of the daily program on August 18, 2020, which we described in detail with photos in the “Kayseri tour report”.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHyogJgQSKxURgVy3pdfht_s",
+    "placeName": "Melik Mehmet Gazi Türbesi",
+    "rating": 5,
+    "comment": "A tomb from the 13th century. The 3rd ruler of the Danisment people who made efforts in the Islamization of Anatolia with Kayseri as the center.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJobUfyAsSKxUR0hDmsk7zkJc",
+    "placeName": "Doner Dome",
+    "rating": 5,
+    "comment": "There are patterns that referred Turkish symbols such as wolfs, lions and life tree. Especially, Life Tree is one of the most important symbols. Moreover, other tombs figured with religious Arabic words, while Doner Kumbet has only Turkish symbols. You should see similar/same symbols in Erzurum Çifte Minareli Medrese and Konya Seljuck tombs.",
+    "date": "7 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJobUfyAsSKxUR0hDmsk7zkJc",
+    "placeName": "Doner Dome",
+    "rating": 4,
+    "comment": "Very well restored with incredible details",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJobUfyAsSKxUR0hDmsk7zkJc",
+    "placeName": "Doner Dome",
+    "rating": 4,
+    "comment": "Tasty food\nLow price\nGood service",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJobUfyAsSKxUR0hDmsk7zkJc",
+    "placeName": "Doner Dome",
+    "rating": 5,
+    "comment": "Ancient Roman structure",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJobUfyAsSKxUR0hDmsk7zkJc",
+    "placeName": "Doner Dome",
+    "rating": 5,
+    "comment": "Armenian Cilician structures!",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJk9JwzwwSKxUR_OA4pxaG4wU",
+    "placeName": "Archeological Museum",
+    "rating": 5,
+    "comment": "The Archeological Museum in Kayseri is a great place to learn about the history of the region. You can see a lot of interesting artifacts from different periods of time.\n\nIf you're interested in ancient history, you should definitely check out the Archeological Museum in Kayseri. It's a great place to learn about the different civilizations that inhabited the area.\n\nIt's a really fascinating museum with a lot of cool exhibits. You can see a lot of pottery, coins, and other artifacts from ancient times. There's also a lot of information about the different civilizations that have lived in the area over the centuries.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJk9JwzwwSKxUR_OA4pxaG4wU",
+    "placeName": "Archeological Museum",
+    "rating": 4,
+    "comment": "Entrance fee per january 2024 is 75TL per person.\nIt is a modernly designed museum with a decent size of collection. The description and story in english is accommodating, even though not as thorough as the one in Turkish. Several interactive displays are available but all in Turkish.\nThe highlight collection is the sarcophagus, especially the one with heracles sculpture.\nVery limited souvenir option in the store.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJk9JwzwwSKxUR_OA4pxaG4wU",
+    "placeName": "Archeological Museum",
+    "rating": 5,
+    "comment": "Fantastic museum. Very well organised, lots of informative signage in english and well lit artefacts. The Neolithic statuary was a delight but there were so many interesting artefacts to admire. Well worth a visit.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJk9JwzwwSKxUR_OA4pxaG4wU",
+    "placeName": "Archeological Museum",
+    "rating": 5,
+    "comment": "Really liked this place! Exhibitions are quite rich and the museum is very nice designed. There is a lot to see, so extra info for easy-tired: there are chairs ;)",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJk9JwzwwSKxUR_OA4pxaG4wU",
+    "placeName": "Archeological Museum",
+    "rating": 4,
+    "comment": "A very interesting and modern museum that covers thousand years of history of this area.The ticket is quite cheap, 12,5 TL. The museum is located in the Kayseri castle.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJVYr0jHNBKxURm6rjYCAlR3Q",
+    "placeName": "Kültepe Kanesh Mound",
+    "rating": 5,
+    "comment": "Don't miss the second part a short ways down the road. The guard was very informative and helped us understand what we were seeing.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJVYr0jHNBKxURm6rjYCAlR3Q",
+    "placeName": "Kültepe Kanesh Mound",
+    "rating": 5,
+    "comment": "This is a spot that everyone should visit. The history in this area is priceless and the access to the place is paved as well and the area is taken care of and respected by the workers. A 10/10 experience",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJVYr0jHNBKxURm6rjYCAlR3Q",
+    "placeName": "Kültepe Kanesh Mound",
+    "rating": 5,
+    "comment": "A fantastic place! Due to the large number of clay cuneiform tablets found they are able to tell about the family living in particular houses some 4000 years back. For some houses they can tell family members names as well as business details. It seems the Assyrian traders were great record keepers. BYW - the poodle in tge name is a totally wrong translation - Kaniś was the name of the ancient city - nothing about poodle involved.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJVYr0jHNBKxURm6rjYCAlR3Q",
+    "placeName": "Kültepe Kanesh Mound",
+    "rating": 3,
+    "comment": "Turkish researchers examined a 4,000-year-old Assyrian tablet containing a prenuptial agreement and found out that the first infertility diagnosis was made in central Kayseri province's Kültepe district.\n\nThe clay tablet written in cuneiform script discusses infertility and a solution for the issue, which is the inability of a person to reproduce through natural means.\n\nthe clay prenuptial agreements addressed the issue of infertility in Assyrian families.\nAccordingly, the wife would allow her husband to hire a hierodule - a female slave brought in to serve as a surrogate - if the couple failed to conceive a baby two years after the date of marriage.\n\"The female slave would be freed after giving birth to the first male baby and ensuring that the family is not be left without a child,\" Professor Turp said.\nThe tablet is on display at the Istanbul Archaeology Museum.\nAssyria was a complex Mesopotamian civilization dating back to the 25th century B.C.\nKültepe was home to an Assyrian settlement of the Old Assyrian Empire from the 21st to 18th centuries B.C.\nOver 1,000 cuneiform tablets were discovered at the site in 1925, while modern archaeological work started in 1948.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJVYr0jHNBKxURm6rjYCAlR3Q",
+    "placeName": "Kültepe Kanesh Mound",
+    "rating": 5,
+    "comment": "The director of the site, Dr. Fikri Kulakoglu, is a most excellent source of knowledge of Kültepe-Kaneš, and he leads a super group of students at the site. It was my pleasure to have been invited, and I look forward to returning!",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJU5yrm5ow0xQR6w_DlCUKEAA",
+    "placeName": "Mimar Sinan Park",
+    "rating": 5,
+    "comment": "It is a quiet park, mostly occupied by retirees, with a mosque inside, roads inside the park built, constantly cleaned by the staff, and a perfect park to relax with bird sounds.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJU5yrm5ow0xQR6w_DlCUKEAA",
+    "placeName": "Mimar Sinan Park",
+    "rating": 4,
+    "comment": "You can breathe, the municipality is really working here, it is not like Eskişehir.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJU5yrm5ow0xQR6w_DlCUKEAA",
+    "placeName": "Mimar Sinan Park",
+    "rating": 4,
+    "comment": "A small park next to Selimiye Mosque.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJU5yrm5ow0xQR6w_DlCUKEAA",
+    "placeName": "Mimar Sinan Park",
+    "rating": 5,
+    "comment": "The park I come to often. Quite nice.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJU5yrm5ow0xQR6w_DlCUKEAA",
+    "placeName": "Mimar Sinan Park",
+    "rating": 5,
+    "comment": "Yuruyus place has wifi...",
+    "date": "7 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZ7AgAYoTKxUR-RofBo47t6Y",
+    "placeName": "Seyyid Burhaneddin Veli Hz Türbesi",
+    "rating": 4,
+    "comment": "The surroundings of the tomb are clean and very beautiful.",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZ7AgAYoTKxUR-RofBo47t6Y",
+    "placeName": "Seyyid Burhaneddin Veli Hz Türbesi",
+    "rating": 5,
+    "comment": "",
+    "date": "a week ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZ7AgAYoTKxUR-RofBo47t6Y",
+    "placeName": "Seyyid Burhaneddin Veli Hz Türbesi",
+    "rating": 5,
+    "comment": "",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJbcrpPK1I0xQRADvJqLCJ87E",
+    "placeName": "Bedesten",
+    "rating": 3,
+    "comment": "Very expensive",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJbcrpPK1I0xQRADvJqLCJ87E",
+    "placeName": "Bedesten",
+    "rating": 1,
+    "comment": "Their products are really expensive, but they are of poor quality. I would definitely not recommend them. It can be purchased at half price even in other brands. Moreover, there are no returns etc. Islamist boutique minds should be stayed away. The hijab brands of the 90s exploited the veiled, and that's exactly how they work.",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJbcrpPK1I0xQRADvJqLCJ87E",
+    "placeName": "Bedesten",
+    "rating": 1,
+    "comment": "A company that does not stand behind its products. Everything is until you pay the money, after you pay, they say get well soon and go and complain. They are so brazen. Be the first to stay away, shop from corporate companies.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJbcrpPK1I0xQRADvJqLCJ87E",
+    "placeName": "Bedesten",
+    "rating": 5,
+    "comment": "First of all, I would like to thank you very much for your interest and interest in covered clothing. I have been very pleased with the products I have purchased over the years. The coats I bought from here are really stylish, high quality and useful. I have been using it for many years. I would recommend it to everyone.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJbcrpPK1I0xQRADvJqLCJ87E",
+    "placeName": "Bedesten",
+    "rating": 1,
+    "comment": "I went there once, they didn't care about me at all, they only cared about my friend next to me because he was a regular customer. The prices are so high that I found the exact same product at another store for half the price. I definitely do not recommend it.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJg2V3CxMSKxUR-aGeYdxgmFM",
+    "placeName": "Forum Kayseri Shopping Center",
+    "rating": 5,
+    "comment": "A beautiful and modern business center in the center of Kayseri. It is really quite vast and fragmented, so you could get lost there.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJg2V3CxMSKxUR-aGeYdxgmFM",
+    "placeName": "Forum Kayseri Shopping Center",
+    "rating": 5,
+    "comment": "They made a beautiful shopping mall, you can find anything you want, clothes. drinks, restaurants, cinema, arcade games.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJg2V3CxMSKxUR-aGeYdxgmFM",
+    "placeName": "Forum Kayseri Shopping Center",
+    "rating": 5,
+    "comment": "Beautiful place. As a tourist foreigner i have seen many well-known brands and outstanding quality products. FLO, LC Waikiki, Defacto and many more brands and off course very comfortable foodcourt to go with family. Very good and organized shopping mall in the center of Kayseri City",
+    "date": "2 weeks ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJg2V3CxMSKxUR-aGeYdxgmFM",
+    "placeName": "Forum Kayseri Shopping Center",
+    "rating": 5,
+    "comment": "One of the best malls in Kayseri. There are many Turkish and international brands. In the restaurants section on the top floor, there are many delicious foods.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJg2V3CxMSKxUR-aGeYdxgmFM",
+    "placeName": "Forum Kayseri Shopping Center",
+    "rating": 5,
+    "comment": "So wonderful\nOne of the most beautiful malls that I have seen ever\nEverything is available here\nFood are very good and good price too.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiwBZnvsRKxURYtdtATvMi20",
+    "placeName": "Can Toys Toptan",
+    "rating": 1,
+    "comment": "This is the address for shopping\nInterest is here, quality is here, Affordable price is here\nThank you Mr. Cüneyt, Mr. Cengiz and Mr. Yılmaz, the owner of the business.\nI wish you good and fruitful work.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiwBZnvsRKxURYtdtATvMi20",
+    "placeName": "Can Toys Toptan",
+    "rating": 5,
+    "comment": "Prices are good, products are high quality, I recommend it, Mr. Nasip, thank you for your interest.",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiwBZnvsRKxURYtdtATvMi20",
+    "placeName": "Can Toys Toptan",
+    "rating": 5,
+    "comment": "They have nice quality toys and they are friendly and helpful. I recommend them.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiwBZnvsRKxURYtdtATvMi20",
+    "placeName": "Can Toys Toptan",
+    "rating": 5,
+    "comment": "I would like to thank Mr. Yılmaz, Mr. Nasip and all the employees, I wish you a happy holiday for your humane behavior, greetings.",
+    "date": "11 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiwBZnvsRKxURYtdtATvMi20",
+    "placeName": "Can Toys Toptan",
+    "rating": 5,
+    "comment": "It is a wonderful business that has a very important place in the toy category in Kayseri. It can perhaps be said to be the biggest in Central Anatolia. The manager of the business, Mr. Nasif, is a very caring and wonderful person, thank you 🙏❤️",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0cq8sc0TKxURRM4AKKQfHNs",
+    "placeName": "Kadir Has Sports Center",
+    "rating": 4,
+    "comment": "Was invited for an event on republic day, it was well organized and very interesting.\nThe only thing that can be better are the woman toilets needs to be better cleaned.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0cq8sc0TKxURRM4AKKQfHNs",
+    "placeName": "Kadir Has Sports Center",
+    "rating": 5,
+    "comment": "I have been working out here since 2018, it belongs to government, it’s cheap so you may meet so different class of people.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0cq8sc0TKxURRM4AKKQfHNs",
+    "placeName": "Kadir Has Sports Center",
+    "rating": 5,
+    "comment": "Jgjgjbnjtuguh5buuhhfiuthhfyy46bee hfhhbhbvvg8ithhgdbyfvncvnbttfnv v fnbvc  bv  g n nnn km nnnnu ge2w\nOijgrrbvdcbb fgbgvv",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0cq8sc0TKxURRM4AKKQfHNs",
+    "placeName": "Kadir Has Sports Center",
+    "rating": 5,
+    "comment": "Was a nice game",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0cq8sc0TKxURRM4AKKQfHNs",
+    "placeName": "Kadir Has Sports Center",
+    "rating": 5,
+    "comment": "Yeayyy, really good place",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJz1qUExfL1BQRqKkiaBz8HQ4",
+    "placeName": "Hasan dede türbesi ve cami",
+    "rating": 5,
+    "comment": "Very historical place and impressive",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJz1qUExfL1BQRqKkiaBz8HQ4",
+    "placeName": "Hasan dede türbesi ve cami",
+    "rating": 5,
+    "comment": "The mosque and the tomb are side by side. The first tomb on the side of the minaret of the mosque belongs to Hasandede, and the second tomb is the joint tomb of his sons Sheikh Halil İbrahim, Sheikh Mustafa and his daughter Ümmühan Ana.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJz1qUExfL1BQRqKkiaBz8HQ4",
+    "placeName": "Hasan dede türbesi ve cami",
+    "rating": 5,
+    "comment": "The Hacerül Esved stone was a perfect detail, and the mulberries in the garden were also very delicious. We enjoyed the treats of Grandfather Pir Hasan, accompanied by colorful roses, and the inside of the tomb was clean, it was a peaceful and beautiful environment.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJz1qUExfL1BQRqKkiaBz8HQ4",
+    "placeName": "Hasan dede türbesi ve cami",
+    "rating": 5,
+    "comment": "It has a clean, well-kept, mystical atmosphere and local products are sold first hand.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJz1qUExfL1BQRqKkiaBz8HQ4",
+    "placeName": "Hasan dede türbesi ve cami",
+    "rating": 3,
+    "comment": "A mosque belonging to an Alevi elder. The surrounding area was very neglected.",
+    "date": "4 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJETOW1vpDKxURtR-kgEDc2S8",
+    "placeName": "Koramaz Vadisi",
+    "rating": 5,
+    "comment": "What a magical place underneath the city. I wouldn’t even imagine that this serenity exists at this hot weather (August month). You have flora that is widely used for medical treatment and kitchen like nettle, rose hip. The whole road is around 7.5km.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJETOW1vpDKxURtR-kgEDc2S8",
+    "placeName": "Koramaz Vadisi",
+    "rating": 5,
+    "comment": "E xploring takes about 5 hours by walking. You can drive or ride a bike of course but i dont suggest trippimg th a car. There re Very othantic and interesting places. Roads are very nice among trees and gardens. Need a Lil bit restorations.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJETOW1vpDKxURtR-kgEDc2S8",
+    "placeName": "Koramaz Vadisi",
+    "rating": 5,
+    "comment": "This is one of the very few beautiful green places in Kayseri. Unbelievable that people drive their cars on the trails. Just because a car can fit doesn't mean it is appropriate. It makes for a very unpleasant dusty experience for hikers. I believe I saw signs prohibiting mangal, yet several groups were obviously defying the rule. There are many designated places to do mangal. This is not one of them. Belediye should restrict car entrance and strongly prohibit mangal here.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJETOW1vpDKxURtR-kgEDc2S8",
+    "placeName": "Koramaz Vadisi",
+    "rating": 5,
+    "comment": "Koramaz Valley which is off the beaten track is one of my favourite places in Kayseri for picnic, it has also a walking and jogging path.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJETOW1vpDKxURtR-kgEDc2S8",
+    "placeName": "Koramaz Vadisi",
+    "rating": 3,
+    "comment": "goy",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
+    "placeName": "Mother Mary Church",
+    "rating": 5,
+    "comment": "I really enjoyed the mass, I love the diversity and love amongst them.  Flexible mass time table👌👌👌. Masses in many languages...\nVery calm environment for prayers too....🙏🙏🙏",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
+    "placeName": "Mother Mary Church",
+    "rating": 5,
+    "comment": "An international chapel located in the embassies cankaya district of Ankara. Feel free to visit",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
+    "placeName": "Mother Mary Church",
+    "rating": 5,
+    "comment": "A lovely place to pray, celebrate, contemplate and meet friends. Lovely mass at Easter and Christmas. Readings in various languages. A truly international atmosphere. Always clean. Classes available-baptism, confirmation etc.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
+    "placeName": "Mother Mary Church",
+    "rating": 5,
+    "comment": "Holy and beautiful place.  My kids love to come to church",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-FcwGFF0xQRKa2lTy0ZW7U",
+    "placeName": "Mother Mary Church",
+    "rating": 5,
+    "comment": "Good place because this the house of God",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJEzgqnAIOKxURQ-05najLlig",
+    "placeName": "Ar's Outlet",
+    "rating": 1,
+    "comment": "A business that does not stand behind its products only gives the warranty until it is sold, and then, no matter what (customer fault), the smiling face it displays while selling turns into a monster.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
+    "placeName": "Kayseri Surp Krikor Lusavoric Armenian Church",
+    "rating": 1,
+    "comment": "It is closed to visitors as it seems it is now a Moslem library.It looks very run down for its age no up keep it seems by anyone.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
+    "placeName": "Kayseri Surp Krikor Lusavoric Armenian Church",
+    "rating": 4,
+    "comment": "I lived in that neighbourhood till 1988\nThere was a lady looking after the church her name was \"Homis\". She was giving us \"çemen and bread\"...We were very upset when she died.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
+    "placeName": "Kayseri Surp Krikor Lusavoric Armenian Church",
+    "rating": 5,
+    "comment": "The inside is beautiful but the man who let's you in is so rude. He said no pictures, didn't know anything about it and didn't want to let us in.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
+    "placeName": "Kayseri Surp Krikor Lusavoric Armenian Church",
+    "rating": 5,
+    "comment": "The old Armenian church that turned into library.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJkaVPSfkNKxURtkvZYhkq1_0",
+    "placeName": "Kayseri Surp Krikor Lusavoric Armenian Church",
+    "rating": 5,
+    "comment": "You gotta visit this beautiful place!",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJb-cqGpi8KxURbpXuWpDHgQY",
+    "placeName": "YENİ CAMİ: Bürüngüz Camii",
+    "rating": 5,
+    "comment": "Number 10, 5 stars spiritual atmosphere. Imam Effendi was also very good. The sound is nice, the kraat is nice.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJb-cqGpi8KxURbpXuWpDHgQY",
+    "placeName": "YENİ CAMİ: Bürüngüz Camii",
+    "rating": 4,
+    "comment": "The place was nice. But there is no WC. Those who use the toilet should come prepared.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJb-cqGpi8KxURbpXuWpDHgQY",
+    "placeName": "YENİ CAMİ: Bürüngüz Camii",
+    "rating": 5,
+    "comment": "",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpYtjXwMSKxURvG-7A5_0xdQ",
+    "placeName": "Gevher Nesibe Çeşmesi",
+    "rating": 5,
+    "comment": "I wish such historical artifacts were not damaged or written on.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpYtjXwMSKxURvG-7A5_0xdQ",
+    "placeName": "Gevher Nesibe Çeşmesi",
+    "rating": 5,
+    "comment": "Gevher Nesibe Sırahiye-Darülşifa-Hospital was built in 1206 by her brother Gıyaseddin Keyhüsrev, in accordance with the will of Gevher Nesibe, the daughter of Kılıçaslan. The fountain was built later. Like a mosque. It is estimated to be a work of the 16th or 17th century. It has been restored several times, starting from the 18th century.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpYtjXwMSKxURvG-7A5_0xdQ",
+    "placeName": "Gevher Nesibe Çeşmesi",
+    "rating": 5,
+    "comment": "This fountain, located in the south-west corner of Çifte Madrasa in Mimarsinan Park, was built in the 17th century. There is no construction inscription on the work, but there are repair inscriptions dating back to 1728 and 1871.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpYtjXwMSKxURvG-7A5_0xdQ",
+    "placeName": "Gevher Nesibe Çeşmesi",
+    "rating": 4,
+    "comment": "A very beautiful garden. It is possible to spend a special family time in its courtyards and next to its fountains. The atmosphere is very beautiful in the morning. I loved the place. At its edges there are kiosks selling snacks, candy and drinks.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpYtjXwMSKxURvG-7A5_0xdQ",
+    "placeName": "Gevher Nesibe Çeşmesi",
+    "rating": 5,
+    "comment": "There are very old castles next to this place",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL2_oQQUSKxURtb8ipbsmlcQ",
+    "placeName": "Kayseri Clock Tower",
+    "rating": 4,
+    "comment": "This clock tower stands right on the main square in front of the Kayseri castle and beside the Ataturk equestrian statue.\nIt marks the entrance to the castle which is very nice to visit.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL2_oQQUSKxURtb8ipbsmlcQ",
+    "placeName": "Kayseri Clock Tower",
+    "rating": 5,
+    "comment": "It located in the centre of cumhuriyet square. I don't know about the history behind it, but it was really beautiful building.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL2_oQQUSKxURtb8ipbsmlcQ",
+    "placeName": "Kayseri Clock Tower",
+    "rating": 4,
+    "comment": "Cute",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL2_oQQUSKxURtb8ipbsmlcQ",
+    "placeName": "Kayseri Clock Tower",
+    "rating": 4,
+    "comment": "Beautiful place 😍",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL2_oQQUSKxURtb8ipbsmlcQ",
+    "placeName": "Kayseri Clock Tower",
+    "rating": 5,
+    "comment": "Beautiful clock tower",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHRnV1FKE0BQRmoKXhv65TGw",
+    "placeName": "Sırçalı Medrese",
+    "rating": 4,
+    "comment": "Beautiful building dating back to 13th century but it was closed when we went there on a Sunday.",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHRnV1FKE0BQRmoKXhv65TGw",
+    "placeName": "Sırçalı Medrese",
+    "rating": 4,
+    "comment": "I really enjoyed my visit to this old islamic seminary.  The artwork and detail which went into placing tiles is beautiful!",
+    "date": "7 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHRnV1FKE0BQRmoKXhv65TGw",
+    "placeName": "Sırçalı Medrese",
+    "rating": 5,
+    "comment": "Beautiful, but the gates were closed, so my view was of the courtyard thru the gates. Close to the archaeological museum of Konya",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHRnV1FKE0BQRmoKXhv65TGw",
+    "placeName": "Sırçalı Medrese",
+    "rating": 5,
+    "comment": "It was built in 1243 by Bedreddin Muslih, the vizier of the Seljuks. It is also known as Muslihiyye Madrasa by the founder of the building, which is known as Sircali Madrasah because of its glazed brick and tile decorations. The master of the master architect, Muhammad b. Mohammed et-Tusi. In the Seljuk and Ottoman periods, Hanafi fiqh and tafsir taught madrasah XVII. century began to be devastated, demanding cells XIX. century adobe rooms were completely demolished and used until 1924. The building, which was overhauled in 1943-1954, was opened to visitors in 1960 as the Grave Monuments Section of the Konya Museum. Mahmut Akok's project was taken as a basis and restored in 1969 by the Ministry of National Education.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJHRnV1FKE0BQRmoKXhv65TGw",
+    "placeName": "Sırçalı Medrese",
+    "rating": 1,
+    "comment": "Nothing to see, the museum seems closed, if it existed. Just a courtyard, a tiled ewan and a carved gate, same as in other two medreses. Waist of time, and it's in an ugly delapidated district.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0bfaV3ESKxURcuT2y2FObBU",
+    "placeName": "Kayseri Kapalı Cezaevi",
+    "rating": 1,
+    "comment": "It needs to be removed from the city center, it can be used as a social facility or museum park.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0bfaV3ESKxURcuT2y2FObBU",
+    "placeName": "Kayseri Kapalı Cezaevi",
+    "rating": 1,
+    "comment": "They are the most hospitable institution I have ever seen. We thought we would stop by and they hosted us for 18 months, just for a little while. Thank God, there was food, drink, a place to stay, and even shower facilities 😏😏",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0bfaV3ESKxURcuT2y2FObBU",
+    "placeName": "Kayseri Kapalı Cezaevi",
+    "rating": 5,
+    "comment": "I have a brother now and I really want to say that God saves everyone and the guards are not understanding. We go back and forth because of opium and our financial situation is not good, but they usually do not let me in for visits.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0bfaV3ESKxURcuT2y2FObBU",
+    "placeName": "Kayseri Kapalı Cezaevi",
+    "rating": 5,
+    "comment": "A historical prison, who came and passed, saw 60 revolutions, saw 80 revolutions, the last word may God save us",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ0bfaV3ESKxURcuT2y2FObBU",
+    "placeName": "Kayseri Kapalı Cezaevi",
+    "rating": 3,
+    "comment": "God forbid",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJvZpxEytZKxURB7Udo42qxoE",
+    "placeName": "Bünyan Cam Seyir Terası",
+    "rating": 4,
+    "comment": "There is a school in the center of Teras Bünyan, with insufficient signs and a parking lot written at the entrance. You can use the school's garden or go a little further and park your car. There are 2 stores selling local products on the right of the entrance. You enter through the arched door and move forward. There are 2 swing-shaped benches and there is a cafe on the right, offering tea, coffee and snacks. When you reach the terrace, there are counters. We did not pay a fee when we went. You buy shoe covers from where the shoe covers are located, put them on your feet and enter the glass terrace. It was built at a height of approximately 40m (I don't know the exact height). You see Pınarbaşı center in front of you. It doesn't have much of a view. If you go in the evening, the rocks are illuminated and the view becomes even more beautiful. Go and see",
+    "date": "3 weeks ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJvZpxEytZKxURB7Udo42qxoE",
+    "placeName": "Bünyan Cam Seyir Terası",
+    "rating": 1,
+    "comment": "A rather insufficient view for the glass terrace. Moreover, although it is said to wear overshoes, the windows are quite dirty. You cannot see the view below the terrace because of the flag hung for election propaganda.\nThe area around it is nice for a picnic, but you shouldn't go there just for the glass terrace.",
+    "date": "a week ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJvZpxEytZKxURB7Udo42qxoE",
+    "placeName": "Bünyan Cam Seyir Terası",
+    "rating": 4,
+    "comment": "Bünyan is a very wet, green and beautiful district. We ate trout at the municipality's facility and it was magnificent. We were saddened and surprised by the fact that there was no Gilaboru water in the beverage option. Everywhere is full of Gilaboru fruit. The glass terrace gives a view from above to this small town, adding excitement and beauty. We are very pleased. We liked it. Go travel, eat fish and buy gilaboru juice from places that sell it.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJvZpxEytZKxURB7Udo42qxoE",
+    "placeName": "Bünyan Cam Seyir Terası",
+    "rating": 4,
+    "comment": "It is a nice place and there is a cafe on the side where you can drink tea and enjoy the view.",
+    "date": "3 weeks ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJvZpxEytZKxURB7Udo42qxoE",
+    "placeName": "Bünyan Cam Seyir Terası",
+    "rating": 4,
+    "comment": "Bünyanda is one of the nice places to go and visit. Since it's new, I think it needs more editing. For example, toilets should be inside the entrance door, not outside. It would be more beautiful if there was a fountain near the camellias. There can also be a small park for children to play while the adults drink tea.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJubUbLQBI0xQRsswKgD0G3EQ",
+    "placeName": "Ahi Evran Cami",
+    "rating": 5,
+    "comment": "A simple, elegant mosque in a beautiful, wooded area. The sinks are clean.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJubUbLQBI0xQRsswKgD0G3EQ",
+    "placeName": "Ahi Evran Cami",
+    "rating": 5,
+    "comment": "A very beautiful mosque in the greenery of Şaşmaz industrial site.",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJubUbLQBI0xQRsswKgD0G3EQ",
+    "placeName": "Ahi Evran Cami",
+    "rating": 5,
+    "comment": "The environment and feeling are great. I went in the evening. I didn't have a chance to go inside, but the view from the outside was great.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJubUbLQBI0xQRsswKgD0G3EQ",
+    "placeName": "Ahi Evran Cami",
+    "rating": 3,
+    "comment": "The only address every Friday is Ahi Evran mosque.\nThere is no parking, they lined up pots on the side road, the back door is closed, we are the victims.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJubUbLQBI0xQRsswKgD0G3EQ",
+    "placeName": "Ahi Evran Cami",
+    "rating": 1,
+    "comment": "Too much perfume is applied. Those perfumes are chemical poisons that cause lung diseases such as COPD and asthma. It was written for informational and warning purposes, not for disparagement.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
+    "placeName": "Kıranardı Mesire Alanı",
+    "rating": 5,
+    "comment": "There are always good, covered areas to sit and grill! We love this area. İt also has great parking.",
+    "date": "11 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
+    "placeName": "Kıranardı Mesire Alanı",
+    "rating": 5,
+    "comment": "Beautiful view with places to play, explore, and bbq. They have little football playing zone, playgrounds and on the top apple trees, grape and walnut trees.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
+    "placeName": "Kıranardı Mesire Alanı",
+    "rating": 4,
+    "comment": "Nice place to hangout, going up there is pretty steep however without any transportation",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
+    "placeName": "Kıranardı Mesire Alanı",
+    "rating": 5,
+    "comment": "Good place for picking",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJL7wQ2X8MKxURwhKlnLHf6cM",
+    "placeName": "Kıranardı Mesire Alanı",
+    "rating": 5,
+    "comment": "Very clean very windy and cool place at summer time",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJzWAJ0zMTKxURyrLXmVI-U1E",
+    "placeName": "Panaya Rum Kilisesi",
+    "rating": 5,
+    "comment": "It is a beautiful place you should see after visiting Talas. Panaya Greek Church was restored and turned into Yaman Dede Mosque. When you go here, you can also watch the view of the city and people trying to paraglide.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJzWAJ0zMTKxURyrLXmVI-U1E",
+    "placeName": "Panaya Rum Kilisesi",
+    "rating": 5,
+    "comment": "Panayada, one of the largest churches of the region that has carried its historical texture from 100 years ago to the present day, unfortunately does not have the same situation in the interior, and its conversion into a mosque was not sufficient to preserve the cultural value. The importance of Kayseri citizens in stonemasonry and architecture is also evident in the church. The outdoor area and churchyard are open to visitors. Fancy plant morphs using red and basalt stones, which are abundant in the region, stand out in most areas. The most interesting thing is that the church lights are off while there are unnecessary lighting around, and it is a shame that such a valuable heritage has been left in the background. Cultural heritage belongs to the entire society…",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJzWAJ0zMTKxURyrLXmVI-U1E",
+    "placeName": "Panaya Rum Kilisesi",
+    "rating": 1,
+    "comment": "The historical monument has not been maintained, has been left to its own devices, and has become a disgusting place, and is in a very sad state. I wish it was taken care of",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJzWAJ0zMTKxURyrLXmVI-U1E",
+    "placeName": "Panaya Rum Kilisesi",
+    "rating": 1,
+    "comment": "We accidentally went to this place, which is not a touristic place. The surroundings are very unpleasant. As we got closer to the slum place, we realized that there were people using drugs inside and we hurriedly left.",
+    "date": "4 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJzWAJ0zMTKxURyrLXmVI-U1E",
+    "placeName": "Panaya Rum Kilisesi",
+    "rating": 5,
+    "comment": "It is very beautiful with its streets and buildings.",
+    "date": "4 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ9cPwhawUKxURuZhk8hRILos",
+    "placeName": "Anadolu Harikalar Diyarı",
+    "rating": 5,
+    "comment": "Must see place in Kayseri\nParking is not a problem\nBut take with you something to eat and drink\nHave fun",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ9cPwhawUKxURuZhk8hRILos",
+    "placeName": "Anadolu Harikalar Diyarı",
+    "rating": 5,
+    "comment": "Small zoo not many animals but decent enough",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ9cPwhawUKxURuZhk8hRILos",
+    "placeName": "Anadolu Harikalar Diyarı",
+    "rating": 2,
+    "comment": "Not good . Many cases emty",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ9cPwhawUKxURuZhk8hRILos",
+    "placeName": "Anadolu Harikalar Diyarı",
+    "rating": 5,
+    "comment": "Very nice",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ9cPwhawUKxURuZhk8hRILos",
+    "placeName": "Anadolu Harikalar Diyarı",
+    "rating": 5,
+    "comment": "Nnn",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJKwq8WDRZwxQRxJCvFDTqZM0",
+    "placeName": "Köprülü Canyon National Park",
+    "rating": 5,
+    "comment": "the place is magnificent where you can see the canyon and the high mountains around. it’s very beautiful and narrow but just any medium size car can pass over the bridge. you feel you are in the middle of nature with the clear waterfall water and green mountains.there are not any restrooms as you are in the middle of nature but there are lots of restaurants and cafes in the area.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJKwq8WDRZwxQRxJCvFDTqZM0",
+    "placeName": "Köprülü Canyon National Park",
+    "rating": 5,
+    "comment": "Went rafting, buggy driving, ziplining here with turkey Travel club and Ahmed. What a great day. A must do attraction if your staying around Antalya. Lunch provided at the end too. The water and scenery is unbelievable.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJKwq8WDRZwxQRxJCvFDTqZM0",
+    "placeName": "Köprülü Canyon National Park",
+    "rating": 5,
+    "comment": "We stayed at Rio Adventure (formerly Mavi Rafting) and had the time of our life. Our lodge was facing the ancient Köpürcay River so morning time was magical! The river produces fog and we got to see the turquoise water right in front of our balcony! There are many spots with views that are more beautiful than any word can describe :)",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJKwq8WDRZwxQRxJCvFDTqZM0",
+    "placeName": "Köprülü Canyon National Park",
+    "rating": 5,
+    "comment": "Absolutely stunning cave spanning 350m. Quite a few steps going both up and down and dimly lit. People with limited mobility unlikely to be able to enjoy. Defo worth visiting.",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJKwq8WDRZwxQRxJCvFDTqZM0",
+    "placeName": "Köprülü Canyon National Park",
+    "rating": 5,
+    "comment": "This place is absolutely stunning, the water is so clear the view is wonderful and is definitely a place to see if you are visiting turkey. We planned an activity day here where we did ziplining buggy riding and water rafting. I do recommend beforehand buying waterproof shoes (crocs are okay but no trainers or flipflops) as these are necessities and the place was selling them for £10. We found shoes beforehand in Antalya and bought them for £6. You also need gloves which were expensive and you’re likely to find this cheaper elsewhere. The ziplining was super fun and the people were very kind. During the rafting, it was around 3 hours and we did get a break where you could buy food and drinks. Although our guide did not speak fluent English, we still had a lot of fun and communicated with him well enough. One important tip is to bring a change of clothes. We did not think this through and did not bring any spare clothes and we were absolutely drenched afterwards. They served lunch as part of the activities and this was chicken skewers rice salad and bread and tasted nice. I hugely recommend this place and the activities and it was so much fun definitely a highlight of my trip.",
+    "date": "9 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJtRkKxw8SKxUR07lNbgqWUlc",
+    "placeName": "Hunat Madrasa",
+    "rating": 5,
+    "comment": "aesthetic place with a cozy cafe inside",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJtRkKxw8SKxUR07lNbgqWUlc",
+    "placeName": "Hunat Madrasa",
+    "rating": 5,
+    "comment": "Amazing place to see the city center evolving within and around the castle walls. It's a amazing to see time changes.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJtRkKxw8SKxUR07lNbgqWUlc",
+    "placeName": "Hunat Madrasa",
+    "rating": 5,
+    "comment": "I love this place and have a place to sip a cup of tea",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJtRkKxw8SKxUR07lNbgqWUlc",
+    "placeName": "Hunat Madrasa",
+    "rating": 4,
+    "comment": "Nice place. With artisan shops",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJtRkKxw8SKxUR07lNbgqWUlc",
+    "placeName": "Hunat Madrasa",
+    "rating": 3,
+    "comment": "One of the ancient historical place in kayseri",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
+    "placeName": "Agirnas Underground City",
+    "rating": 4,
+    "comment": "You should see here, It's very exciting place. You can contact with responsible person by mobile phone. They are very helpful people.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
+    "placeName": "Agirnas Underground City",
+    "rating": 4,
+    "comment": "It’s historical town, it was good to visit during the summer time.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
+    "placeName": "Agirnas Underground City",
+    "rating": 5,
+    "comment": "Spectacular underground city of ancient times. İt has multiple very large rooms inside, and several tunnels that stretches many kilometers each. Some of the rooms are: resting rooms, prayer rooms, dining rooms, medical treatment rooms, stock rooms and more.\n\nI've been to many caves and underground cities, but i guess gues has been my favourite so far. Unfortunately the place is very unknown for both locals as well as foreign tourists.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
+    "placeName": "Agirnas Underground City",
+    "rating": 1,
+    "comment": "It was closed even it was supposed to be open...no info Who to contact and when it will be open again.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJI2y51uBCKxURR4U6qIc8CW4",
+    "placeName": "Agirnas Underground City",
+    "rating": 4,
+    "comment": "Another historical place. Right in front of the place there is a picnic areas with playground, man made waterfall and a small masjid.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
+    "placeName": "Felahiye 15 Temmuz Şehitler Parkı",
+    "rating": 5,
+    "comment": "Nice",
+    "date": "7 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
+    "placeName": "Felahiye 15 Temmuz Şehitler Parkı",
+    "rating": 4,
+    "comment": "Felahiye park. It has a very beautiful picnic area and view. There are camellias built by the municipality, and among the camellias there are ready-made barbecues. It is a good alternative for those looking for a picnic spot on the weekend. On the downside, they have public toilets but they are poorly used. Unfortunately, it has been made worse by our unconscious people.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
+    "placeName": "Felahiye 15 Temmuz Şehitler Parkı",
+    "rating": 5,
+    "comment": "It is a wonderful and beautiful place, perhaps it has the airiest atmosphere around, it is built on the Yamula dam, it is ideal for relaxing and having a picnic, it has tables, benches, barbecue and toilets, the only negative aspect is that there are many bees, they attack the moment you start taking out the food 😊",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
+    "placeName": "Felahiye 15 Temmuz Şehitler Parkı",
+    "rating": 5,
+    "comment": "It is a recreation area where you can have a great time with clean air and plenty of oxygen, suitable for a picnic with a perfect view, next to the Yaşar Karayel viaduct, on the edge of the Yamula dam lake, 10 km away from the Felahiye district. Very spacious and clean. The winter view is also superb.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJd4cczyU2KxURjAKRIaMLOJM",
+    "placeName": "Felahiye 15 Temmuz Şehitler Parkı",
+    "rating": 5,
+    "comment": "Nice place to have a picnic. There are barbecues in each small chalet. The landscape is not bad. Room for praying, clean toilet. Small children's park. Too bad there is no other activity to do.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC6k1vPkeKxURoJh16aN18v4",
+    "placeName": "Yamula Piknik Alanı",
+    "rating": 3,
+    "comment": "Nice place for picnic and bar b q",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC6k1vPkeKxURoJh16aN18v4",
+    "placeName": "Yamula Piknik Alanı",
+    "rating": 5,
+    "comment": "Where is this picnic area? I couldn't find it? When the camellias are placed, I call it a picnic area and it will be announced to the relevant people.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC6k1vPkeKxURoJh16aN18v4",
+    "placeName": "Yamula Piknik Alanı",
+    "rating": 4,
+    "comment": "Visually it is very beautiful, but there was garbage everywhere, it should be cleaned.",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC6k1vPkeKxURoJh16aN18v4",
+    "placeName": "Yamula Piknik Alanı",
+    "rating": 5,
+    "comment": "Kızılırmak River is a river that originates from the foothills of Kızıldağ in the İmranlı district of Sivas and flows into the Black Sea in the Bafra district of Samsun. With its length of 1,355 km (841 miles), it is the longest river in Turkey that originates within its borders and flows into the sea within its borders. Passing through the provinces of Sivas, Kayseri, Nevşehir, Kırşehir, Kırıkkale, Ankara, Çankırı, Çorum, Sinop and Samsun, Kızılırmak collects the waters of many rivers and streams such as Delice River, Devrez and Gökırmak and draws a large curve from Bafra Cape to the Black Sea. reaches.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJC6k1vPkeKxURoJh16aN18v4",
+    "placeName": "Yamula Piknik Alanı",
+    "rating": 1,
+    "comment": "People threw their garbage everywhere. During Eid al-Adha, they threw the stomach intestines of the animals into places where picnics could be held, such as waterside. It was very terrible. Smells and sight. I hope they give up their habit of throwing garbage around.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ1zzqGxVVKhUREzgE0jG7Aos",
+    "placeName": "incesumarina",
+    "rating": 5,
+    "comment": "We celebrated our daughter's birthday and it was a fantastic day",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ1zzqGxVVKhUREzgE0jG7Aos",
+    "placeName": "incesumarina",
+    "rating": 5,
+    "comment": "a beautiful place to eat or have a drink. very nice service",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ1zzqGxVVKhUREzgE0jG7Aos",
+    "placeName": "incesumarina",
+    "rating": 1,
+    "comment": "Great secneary . Food baaad.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ1zzqGxVVKhUREzgE0jG7Aos",
+    "placeName": "incesumarina",
+    "rating": 1,
+    "comment": "He\nSnxnsnx",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ1zzqGxVVKhUREzgE0jG7Aos",
+    "placeName": "incesumarina",
+    "rating": 4,
+    "comment": "It is a very beautiful place with camellias for picnics and a beautiful view and indoor and outdoor areas run by the municipality. Restaurant prices were normal, food tastes were good. There are also camellias where you can barbecue yourself and have a picnic, but as far as I saw, they were insufficient. People were having picnics in the shaded areas they found, which is not a nice sight. There is a park for children, but unfortunately there is not even a tree to provide shade, the park The place is available and sufficient. In my opinion, the downside is that rope was used as a railing on the lake side. I think it could have been made more durable and made of iron. It may be a problem for families with children. Also, as far as I saw, there were people fishing with a fishing rod.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
+    "placeName": "Sarımsaklı Mesire Alanı",
+    "rating": 5,
+    "comment": "We're there during the week, so it wasn't crowded. Loved the color of the water and nice breeze.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
+    "placeName": "Sarımsaklı Mesire Alanı",
+    "rating": 5,
+    "comment": "Mangal keyfilik",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
+    "placeName": "Sarımsaklı Mesire Alanı",
+    "rating": 3,
+    "comment": "Going to be flying",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
+    "placeName": "Sarımsaklı Mesire Alanı",
+    "rating": 3,
+    "comment": "Vg",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmwNZ5S1FKxURZNqmFW4l9x0",
+    "placeName": "Sarımsaklı Mesire Alanı",
+    "rating": 5,
+    "comment": "Güzeeeeeellll!!!",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJN0jMUMk_KRURd3fPpAT8gP4",
+    "placeName": "Zamantı River",
+    "rating": 5,
+    "comment": "Ms",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJN0jMUMk_KRURd3fPpAT8gP4",
+    "placeName": "Zamantı River",
+    "rating": 5,
+    "comment": "Super",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJN0jMUMk_KRURd3fPpAT8gP4",
+    "placeName": "Zamantı River",
+    "rating": 5,
+    "comment": "Pinarbasi",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJN0jMUMk_KRURd3fPpAT8gP4",
+    "placeName": "Zamantı River",
+    "rating": 5,
+    "comment": "The roads leading to the river are newly asphalted. There are wonderful views.",
+    "date": "7 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJN0jMUMk_KRURd3fPpAT8gP4",
+    "placeName": "Zamantı River",
+    "rating": 5,
+    "comment": "Nature is wonderful but there are no fish left",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
+    "placeName": "Kapuzbaşı Selalesi Kayseri",
+    "rating": 5,
+    "comment": "Among the places I've visited in the area, It's one of the best places to visit for natural beauty around Kayseri. Entrance fee was 60try for cars. But be more cautious while driving especially after Yahyalı as roads are very narrow and curvey at certain places. Try to go there during week, be there like 11 AM and leave around 4PM. Love it❤️",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
+    "placeName": "Kapuzbaşı Selalesi Kayseri",
+    "rating": 5,
+    "comment": "It’s one of the best places in Kayseri\nGood to do barbecue and it’s better to go early their. Actually the road was not scary as I heard",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
+    "placeName": "Kapuzbaşı Selalesi Kayseri",
+    "rating": 5,
+    "comment": "Pretty cool natural attraction! Really crazy to see such big waterfalls gushing out from the sides of cliffs. My kids loved being able to walk the little paths on the other side of the river. Nice to have a small cafe to but ice cream, snacks or hot drinks.\n\nUnfortunately the largest waterfalls don't really have good access. You see them as you drive in, but there is no parking near them, so you have to walk back to view them from the road. Also the roads get a little windy going back in there, so if you get car sick, be prepared!",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
+    "placeName": "Kapuzbaşı Selalesi Kayseri",
+    "rating": 5,
+    "comment": "One of the most wonderful waterfall I've ever seen 😍 ❤ An amazing 👏🏻 experience in the best natural way in the largest woodland area 👌🏻👍🏻",
+    "date": "10 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJiVXtd_dtKRURwYitNW84HwE",
+    "placeName": "Kapuzbaşı Selalesi Kayseri",
+    "rating": 5,
+    "comment": "Amazing view. No Cafe or restaurants, there's a small area with tables, which can be rented. Only tea and some drinks served there. If you wanna eat there, bring food with you.\n\nSmall parking slot available at the end of terrace, which is not sufficient. Most of cars parked on a right side of the road.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ_f9va64UKxUR_tK8-hG-hB8",
+    "placeName": "Kayseri Zoo",
+    "rating": 5,
+    "comment": "I liked this zoo a lot! No visitors at all, tiny price (25 tl for a person), huge cells! and open fenced areas! for animals, a lake and an island, cute and healthy animals! everything is clean.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ_f9va64UKxUR_tK8-hG-hB8",
+    "placeName": "Kayseri Zoo",
+    "rating": 3,
+    "comment": "Imagine that you are going around in a zoo half of the animals are missing for a strange reason but they dint actually escape they have been gone for a while now and nobody knows why, everything seems a bit abandoned and surely in a couple of years the park will disappear.\nMost likely you wont be able to find something to drink and once you go outside you will realize that you paid only 2.5 lira which is pretty cheap it's great!",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ_f9va64UKxUR_tK8-hG-hB8",
+    "placeName": "Kayseri Zoo",
+    "rating": 5,
+    "comment": "The municipality supports the zoo for its citizens. Entrance is ridiculus price of € 0,14! Per adult. Children € 0,05. Good place to visist with children.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ_f9va64UKxUR_tK8-hG-hB8",
+    "placeName": "Kayseri Zoo",
+    "rating": 5,
+    "comment": "Amazing place. A wide range of animals are to be found here. Good atmosphere, very clean and constructed upon a huge area.\n\nMuch recommended.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ_f9va64UKxUR_tK8-hG-hB8",
+    "placeName": "Kayseri Zoo",
+    "rating": 5,
+    "comment": "Very cool place you will see many kind of animals",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJxWi_e4FP0xQRJ4Y2_tyjx_k",
+    "placeName": "Botanical Park",
+    "rating": 5,
+    "comment": "This park is an amazing escape from our busy life.\nThey have the cutest benches and tables for you to have a quiet picnic or hangout with your friends and family. There's also a lake in the middle.\n\nWe came here around noon and the weather was beautiful. We enjoyed our food and the scenery.  It was very relaxing.\n\nYou also get to see the Atakule tower from the garden.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJxWi_e4FP0xQRJ4Y2_tyjx_k",
+    "placeName": "Botanical Park",
+    "rating": 5,
+    "comment": "Came here during winter and it was quiet as there weren't so many people around. You can access the park through the street uphill or from a path downhill. There is a pond and it appears to be dried out during the winter. There is also a structure that looks like a greenhouse but I didn't have the chance to go inside. There is an area that appeared to be an aquarium but apparently, it wasn't open when I got there. There is also an area for kids to play but it is located way uphill not in the downhill area.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJxWi_e4FP0xQRJ4Y2_tyjx_k",
+    "placeName": "Botanical Park",
+    "rating": 5,
+    "comment": "Wonderful, peaceful, natural beauty ☺ Ankara Metropol City Municipality works better and keeps up this beauty by restoring the botanical area thanks to the biologists union!",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJxWi_e4FP0xQRJ4Y2_tyjx_k",
+    "placeName": "Botanical Park",
+    "rating": 5,
+    "comment": "Now you have the Park in its majestic aura of greenery and snaking walkways, a fountain, convenience facilities. Just overlooking the park is an enormous shopping mall.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJxWi_e4FP0xQRJ4Y2_tyjx_k",
+    "placeName": "Botanical Park",
+    "rating": 5,
+    "comment": "Ice flakes in Ankara, with -3 weather, still warm to the eyes.",
+    "date": "4 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
+    "placeName": "Burunguz Mosque",
+    "rating": 4,
+    "comment": "The greenway of the tramvay infront of the mosque is fabulous!!!",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
+    "placeName": "Burunguz Mosque",
+    "rating": 5,
+    "comment": "Great",
+    "date": "10 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
+    "placeName": "Burunguz Mosque",
+    "rating": 5,
+    "comment": "Beautiful mosque in the center of Kayseri",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
+    "placeName": "Burunguz Mosque",
+    "rating": 5,
+    "comment": "Very old mosque next Algmhorya miydan.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJM87sBQUSKxURP0n_LxHZfTM",
+    "placeName": "Burunguz Mosque",
+    "rating": 5,
+    "comment": "Beautiful mosque",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ8XBcz_dP0xQRdm-28FJA1Z8",
+    "placeName": "Nenehatun parkı",
+    "rating": 1,
+    "comment": "The park that Cankaya Municipality forgot and did not care about. The park where we sent messages to the municipality tens of times to repair the broken parts. 153 is the park we are looking for to receive garbage. The park we wrote on Alper Tasdel's page to build a dog playground. The park is built with our taxes but we cannot get service. I think I should change my party",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ8XBcz_dP0xQRdm-28FJA1Z8",
+    "placeName": "Nenehatun parkı",
+    "rating": 4,
+    "comment": "It's a large park. There is a small area of ​​shade. The only thing that could be negative here are the dogs around.\nUpdate: There are no dogs around the park these days. The doghouse at the top is also missing.\n+Evenings are crowded during the summer months.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ8XBcz_dP0xQRdm-28FJA1Z8",
+    "placeName": "Nenehatun parkı",
+    "rating": 3,
+    "comment": "The park is very beautiful, the children have a lot of fun, but those who constantly walk in the small area prevent the children from riding their bikes and playing ball, and as if that was not enough, they also scold the children. Please find a solution.",
+    "date": "a year ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ8XBcz_dP0xQRdm-28FJA1Z8",
+    "placeName": "Nenehatun parkı",
+    "rating": 5,
+    "comment": "There is a very nice park in the neighborhood, there are also sports equipment for adults.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ8XBcz_dP0xQRdm-28FJA1Z8",
+    "placeName": "Nenehatun parkı",
+    "rating": 5,
+    "comment": "Renovation is required, our children are in danger of falling from the railings",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-s5s4CgKxUR3PLY3c-WTuY",
+    "placeName": "Erciyes Daily Picnic Area",
+    "rating": 5,
+    "comment": "A picnic area with sufficiently spaced seating areas, a barbecue suitable for grilling, a magnificent view and clean air. We stayed for about an hour and left very satisfied.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-s5s4CgKxUR3PLY3c-WTuY",
+    "placeName": "Erciyes Daily Picnic Area",
+    "rating": 5,
+    "comment": "June 2023\n👉5⭐ facility.\n👍A successful work of the municipality. Congratulations on the free public service a few kilometers away from Erciyes ski resort.\n👍 I think there are 20 camellias, each with standard appearance and functionality, with a barbecue for Max 10 people, on a high ground.\n👍Breakfast and meals can be organized with the fresh air and view. A special area where you can have a pleasant time with your loved ones.\n👉On sunny days in June, you may catch cold in the shade, so it's better to be cautious.\n👍Of course, one of the best parts is that Gelengis (Anatolian squirrels) accompany you with their families. You can feed it by hand and take beautiful photographs. You can bring a loaf of bread for them. They also love fruit.\n👍Parking is available and sufficient.\n👎I couldn't see a WC.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-s5s4CgKxUR3PLY3c-WTuY",
+    "placeName": "Erciyes Daily Picnic Area",
+    "rating": 5,
+    "comment": "This place is worth a visit every time; the barbecue huts offer the opportunity to feast in detail. The restaurants nearby sell drinks at reasonable prices.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-s5s4CgKxUR3PLY3c-WTuY",
+    "placeName": "Erciyes Daily Picnic Area",
+    "rating": 5,
+    "comment": "I know it is a suitable place for a picnic, but it was very cool in terms of coolness. It would be better if there was a toilet and sink in the picnic area.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJq-s5s4CgKxUR3PLY3c-WTuY",
+    "placeName": "Erciyes Daily Picnic Area",
+    "rating": 5,
+    "comment": "Erciyes Mountain has a magnificent view in every way and a mesmerizing view, and the best place to watch this view is the picnic area. The roads are a little narrow due to the snow, you have to be careful, vehicles get stuck in the snow, picnickers are very helpful people immediately lend a hand. It would be great if the municipality covers the picnic camellias with transparent nylon. The wind and cold are constant.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZZjHFNWgKxURBmFCystu8WA",
+    "placeName": "Erciyes shepherd Panini Campground",
+    "rating": 4,
+    "comment": "Çobanini gave me magical feelings during my first winter Erciyes peak climbing adventure. The moonlight and calm air after Erciyes at night were priceless...",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZZjHFNWgKxURBmFCystu8WA",
+    "placeName": "Erciyes shepherd Panini Campground",
+    "rating": 5,
+    "comment": "Even in August, we reached the summit at almost zero degrees on 04.08.2020. This is the place to stay for the Devil's route, but for the Ridge route, it would be better to stay in the area after following the path on the left side of the road leading to the stablization, rather than in the shepherd's den.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZZjHFNWgKxURBmFCystu8WA",
+    "placeName": "Erciyes shepherd Panini Campground",
+    "rating": 5,
+    "comment": "The 95th Erciyes summit climb of the Turkish Mountaineering Federation was held successfully on 29 October with the participation of 100 mountaineers.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZZjHFNWgKxURBmFCystu8WA",
+    "placeName": "Erciyes shepherd Panini Campground",
+    "rating": 4,
+    "comment": "It's a nice camping area, there is not always water available, you will either carry it or melt the snow depending on the season, it is very advantageous to go up the mountain from here.",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJZZjHFNWgKxURBmFCystu8WA",
+    "placeName": "Erciyes shepherd Panini Campground",
+    "rating": 5,
+    "comment": "The campsite is beautiful, flat, there is Metin Hoca fountain nearby.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
+    "placeName": "Erciyes Ski Resort",
+    "rating": 5,
+    "comment": "It's amazing place! The volcano looks very impressive! You don't expect to see such a thing in Turkey. A lot of trails for different levels of riders.The main thing is to get lucky with the weather, then we'll be fine! The place is a must-see!",
+    "date": "2 weeks ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
+    "placeName": "Erciyes Ski Resort",
+    "rating": 5,
+    "comment": "We visited during the summer and the cable cart was amazing. We visited the cafe up and had a beautiful view of the snow mountain.\nThe cable cart was not very expensive too.\nThe facility is hide and hard to find it by drive. But the view and the experience is sure worth it. Would love to go again in the winter to enjoy the snow and all the snow activities.",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
+    "placeName": "Erciyes Ski Resort",
+    "rating": 5,
+    "comment": "I cal highly recommend it to all types of skiërs… Very nice blue slopes, red and black slopes. Its really a top ski resort. Resturant’s and bars all over, lots of ski hiring places in the different “ski towns”. We had an amazing time. The weather was really good what helped a lot. The slopes is very well maintained as well as all the lifts. It was really a wonderful time. Would recommend it to everyone.",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
+    "placeName": "Erciyes Ski Resort",
+    "rating": 4,
+    "comment": "Lots of shops at the bottom and the restaurant at the top of the ski hill serves nice hot food. Cable car is not clean so it affected photos taken.  Didnt try other activities like the snow mobile or ski activities. No one else did too. This is a good place to just take photos and play a bit of snow with family.",
+    "date": "3 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJmeYpNmWgKxURdkimKNEBUho",
+    "placeName": "Erciyes Ski Resort",
+    "rating": 5,
+    "comment": "Fantastic ski resort! The slopes were well-groomed, and the variety of trails catered to all skill levels. The staff was friendly and helpful, making for a seamless experience. Plus, the breathtaking mountain views added an extra touch of magic to the whole adventure. Can't wait to visit again!",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
+    "placeName": "Sultansazlığı Kuş Cennet",
+    "rating": 4,
+    "comment": "Wear fly repellent on your hands and arms as you go. A swamp full of mosquitoes",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
+    "placeName": "Sultansazlığı Kuş Cennet",
+    "rating": 4,
+    "comment": "I recommend you not to go in the autumn period, the water dries up. It is one of the most important bird sanctuaries of our country after Lake Abant. Its campus is large. Houses the bird miniature museum",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
+    "placeName": "Sultansazlığı Kuş Cennet",
+    "rating": 1,
+    "comment": "There is nothing worth seeing, no one should go there in vain, and they charge 19 TL per person.",
+    "date": "11 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
+    "placeName": "Sultansazlığı Kuş Cennet",
+    "rating": 4,
+    "comment": "This is one of the rare places in our country. It contains around 300 living creatures.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJsf1vYOc2KhURbmSn7YjIgGQ",
+    "placeName": "Sultansazlığı Kuş Cennet",
+    "rating": 1,
+    "comment": "Converted into worthless money",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ5xezChF1KRURhsVouc2Kt0s",
+    "placeName": "Hacer ormanları",
+    "rating": 5,
+    "comment": "Definitely a place to visit that meets expectations. It is a fascinating place with its nature and location. It is very nice for camping, trekking etc. Hacer Strait and Yedigoller crossing route... It would be better to go with a six-high vehicle.",
+    "date": "2 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ5xezChF1KRURhsVouc2Kt0s",
+    "placeName": "Hacer ormanları",
+    "rating": 5,
+    "comment": "It has a unique land structure and it is impossible not to admire it. Never return without camping. If you are coming from Yahyalı direction, after passing the Ulupınar direction, you can come to Hacer Forests if you have a high vehicle, but the road is not only unstabilized but also very bad. If you come from here early in the morning, you can also climb the Seven Lakes. When we went, they said it was not possible to climb because it was past noon. You can get more detailed information about the area from the National park information area, located approximately 10 km after Kapuzbaşı.",
+    "date": "8 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ5xezChF1KRURhsVouc2Kt0s",
+    "placeName": "Hacer ormanları",
+    "rating": 5,
+    "comment": "The hacer forests in the Aladağlar are a visually stunning place. We were fascinated by the hacer forests we went to for offroading. It is a location you should definitely see.",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ5xezChF1KRURhsVouc2Kt0s",
+    "placeName": "Hacer ormanları",
+    "rating": 4,
+    "comment": "This forest, which has a wide range of flora, is very suitable for camping and mountaineering activities. The kitchen part of the chalet is in ruins 🍁",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ5xezChF1KRURhsVouc2Kt0s",
+    "placeName": "Hacer ormanları",
+    "rating": 5,
+    "comment": "There are postcard views, but not every vehicle can see it. The road is not dirt, it is stony. So if you are not careful, the tire may split. It takes about 1 hour to go up from Kapuzbaşı. There is an observation deck on the road, which has a beautiful view. The road up from here is now a stony road, it's a little difficult to go. But the view is very beautiful.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJT78bsqB7KxURWltCmIegU6U",
+    "placeName": "Çatal Tepe Mesire Alanı",
+    "rating": 5,
+    "comment": "The beautiful trees planted years ago with the cooperation and diligent work of the people of Gülveren Village are now able to cool off in their shade. Thanks for everyone who has contributed efforts.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJT78bsqB7KxURWltCmIegU6U",
+    "placeName": "Çatal Tepe Mesire Alanı",
+    "rating": 5,
+    "comment": "May God have mercy on Uncle Necmettin. Thanks to him, we became our recreation area.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJT78bsqB7KxURWltCmIegU6U",
+    "placeName": "Çatal Tepe Mesire Alanı",
+    "rating": 4,
+    "comment": "Really great for relaxing",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJT78bsqB7KxURWltCmIegU6U",
+    "placeName": "Çatal Tepe Mesire Alanı",
+    "rating": 5,
+    "comment": "",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJT78bsqB7KxURWltCmIegU6U",
+    "placeName": "Çatal Tepe Mesire Alanı",
+    "rating": 4,
+    "comment": "",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
+    "placeName": "Erciyes Ski Center",
+    "rating": 5,
+    "comment": "One of the best snowboarding experiences I’ve had in my life! The mountain is well taken care of and the lifts are in good condition. It can get confusing at times with the trails but there are few markers to help. I have struggled a little bit with the language barrier but the staff tried their best to be as helpful as possible. It was an amazing experience overall. Planning to come back here again 🤙🏼🏂",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
+    "placeName": "Erciyes Ski Center",
+    "rating": 5,
+    "comment": "Hope to visit again with lots of powder. Take your equipment with you if you are an advanced skier",
+    "date": "a month ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
+    "placeName": "Erciyes Ski Center",
+    "rating": 4,
+    "comment": "Good, affordable ski resort. The slope for beginners. And the food's prices are reasonable",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
+    "placeName": "Erciyes Ski Center",
+    "rating": 5,
+    "comment": "Marvelous place but just I didn't like hotel's ski staffs",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJpY-F8mOgKxURmRilAwCm170",
+    "placeName": "Erciyes Ski Center",
+    "rating": 4,
+    "comment": "Very cold and an excellent place for skiing. A beautiful place to be",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
+    "placeName": "Evliyalar Mesire Alanı",
+    "rating": 4,
+    "comment": "It used to be much nicer, but its intended use has changed over the past few years.\nGuys, please be a little respectful.\nThe pilaf days were especially nice. Nowadays we don't even want to go. But it is a very beautiful place, it is great in the summer and the breeze is strong.\nWe would like to thank our municipality during the tomato paste days, it is a very good service, your father will not do what they do to you, that's all ;)",
+    "date": "6 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
+    "placeName": "Evliyalar Mesire Alanı",
+    "rating": 5,
+    "comment": "The recreation area is a nice place to go as a family. Social events, hiking and even camping can be done. Insensitive people have left the environment dirty, but the facilities are good. Fire can be lit. Picnic opportunities are nice. There are toilets and water. There is a garbage container. There is a park for children. Even the place to perform ablution is more than one. There is a lot of shade. The green area is very useful. When you get there, remember that it is the land of saints, just read it. No one will charge you for footfall. With greetings and prayers. …",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
+    "placeName": "Evliyalar Mesire Alanı",
+    "rating": 5,
+    "comment": "It is usually crowded in the summer months, the landscaping is beautiful, it can be done for a picnic or for a walk, there is a WC, there is no parking problem, but I cannot say it is very clean, but it will do the job. LET'S KEEP THE ENVIRONMENT CLEAN, healthy days.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
+    "placeName": "Evliyalar Mesire Alanı",
+    "rating": 4,
+    "comment": "There are more dogs than people, they pose a danger, they need to be gathered at the dog shelter.",
+    "date": "5 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJYYthJhdsKxUR4DgSS3KfZuY",
+    "placeName": "Evliyalar Mesire Alanı",
+    "rating": 5,
+    "comment": "A nice environment to have a barbecue with your family. The only problem is stray dogs. Children and women are especially disturbed. This is the biggest problem in most recreation areas. Municipalities are not very good at this.",
+    "date": "10 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "placeName": "Bestepe Picnic Area",
+    "rating": 5,
+    "comment": "Nice landscape. One of the highest place in the city center. So close to visit. Should visit for sunrise. On Sundays very crowded because of picnic events. There's a little zoo as a bonus.",
+    "date": "2 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "placeName": "Bestepe Picnic Area",
+    "rating": 4,
+    "comment": "You can go there with your friend or family for picnic or  relaxing and fun. That place where on the hill not far from downtown. You can reach there both your own car , public trasport as well.",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "placeName": "Bestepe Picnic Area",
+    "rating": 5,
+    "comment": "So good and perfect here",
+    "date": "10 months ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "placeName": "Bestepe Picnic Area",
+    "rating": 5,
+    "comment": "Best place to relax. A huge picnic area. It has a mini zoo and a clean restroom.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJMRNgLQwOKxURg-RVIoe1FPQ",
+    "placeName": "Bestepe Picnic Area",
+    "rating": 4,
+    "comment": "It’s a wonderful place with greenery, but went during holidays so it was quite smoky and smelly due to barbecues all over.",
+    "date": "4 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "placeName": "Ali Mountain Recreation Area",
+    "rating": 4,
+    "comment": "Good place for picnics. Not far from town and is easily accessible. Almost all of Kayseri could be viewed from there. Quite crowded though because its proximity to town.",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "placeName": "Ali Mountain Recreation Area",
+    "rating": 5,
+    "comment": "Perfect for picnic and bbq with family",
+    "date": "3 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "placeName": "Ali Mountain Recreation Area",
+    "rating": 4,
+    "comment": "awesome going this place good idea :)",
+    "date": "6 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "placeName": "Ali Mountain Recreation Area",
+    "rating": 5,
+    "comment": "Good place for tracking.",
+    "date": "5 years ago",
+    "photos": []
+  },
+  {
+    "placeId": "ChIJ04POdkcNKxUR2KQKgQ25upo",
+    "placeName": "Ali Mountain Recreation Area",
+    "rating": 5,
+    "comment": "Super",
+    "date": "4 years ago",
+    "photos": []
+  }
+]

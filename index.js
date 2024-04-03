@@ -1,3 +1,96 @@
+/*
+const fs = require('fs');
+const fetch = require('node-fetch');
+
+// Google Places API anahtarınız
+const apiKey = 'YOUR_API_KEY';
+
+// Yer detaylarını çekmek için fonksiyon
+async function getPlaceDetails(placeId) {
+    // API isteği için URL oluştur
+    const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=name,reviews,rating,photos&key=${apiKey}`;
+
+    try {
+        // API'den veriyi çek
+        const response = await fetch(url);
+        const data = await response.json();
+        // Yer detaylarını al
+        return data.result;
+    } catch (error) {
+        console.error('Hata:', error);
+        return null;
+    }
+}
+
+// Yer incelemelerini reviews.json dosyasına eklemek için fonksiyon
+function addReviewsToJSON(reviews, placeId, placeName) {
+    fs.readFile('reviews.json', 'utf8', (err, data) => {
+        if (err) {
+            console.error('Dosya okunurken hata oluştu:', err);
+            return;
+        }
+        try {
+            // Mevcut JSON verisini oku
+            let existingReviews = JSON.parse(data);
+            // Her bir incelemeyi dolaşarak yer bilgilerini ekleyin
+            const reviewsWithPlaceInfo = reviews.map(review => {
+                return {
+                    placeId: placeId,
+                    placeName: placeName,
+                    rating: review.rating,
+                    comment: review.text,
+                    date: review.relative_time_description,
+                    photos: review.photos ? review.photos.map(photo => photo.photo_reference) : []
+                };
+            });
+            // Yeni incelemeleri ekle
+            existingReviews = existingReviews.concat(reviewsWithPlaceInfo);
+            // reviews.json dosyasına yaz
+            fs.writeFile('reviews.json', JSON.stringify(existingReviews, null, 2), err => {
+                if (err) {
+                    console.error('Dosya yazılırken hata oluştu:', err);
+                    return;
+                }
+                console.log('reviews.json dosyası güncellendi.');
+            });
+        } catch (error) {
+            console.error('JSON verisi parse edilirken hata oluştu:', error);
+        }
+    });
+}
+
+// places.json dosyasını oku
+fs.readFile('places.json', 'utf8', async (err, data) => {
+    if (err) {
+        console.error('Dosya okunurken hata oluştu:', err);
+        return;
+    }
+
+    try {
+        // JSON verisini parse et
+        const places = JSON.parse(data);
+
+        // Her bir placeId için yer detaylarını ve incelemeleri al
+        for (const place of places) {
+            const placeId = place.placeId;
+            const placeName = place.name;
+            const placeDetails = await getPlaceDetails(placeId);
+            if (placeDetails && placeDetails.reviews) {
+                // Yer incelemelerini reviews.json dosyasına ekle
+                addReviewsToJSON(placeDetails.reviews, placeId, placeName);
+                console.log(`Yer incelemeleri başarıyla bulundu ve reviews.json dosyasına eklendi: ${placeId}`);
+            } else {
+                console.log(`Yer incelemeleri bulunamadı: ${placeId}`);
+            }
+            // 3 saniye beklet
+            await new Promise(resolve => setTimeout(resolve, 3000));
+        }
+    } catch (error) {
+        console.error('JSON verisi parse edilirken hata oluştu:', error);
+    }
+});
+*/
+//******************************************************************* */
 // Google places API dan city name e göre placedId çeken kod.
 /*
 const fs = require('fs');
@@ -41,7 +134,6 @@ sendRequests();
 
 */
 //******************************************************************* */
-
 // Türkçe hataları düzelten script.
 /*
 const fs = require('fs');
