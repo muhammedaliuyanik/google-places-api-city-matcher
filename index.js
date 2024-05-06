@@ -238,15 +238,31 @@ function writeJSON(filename, data) {
 }
 
 // JSON dosyasını oku
-const data = readJSON('alicente.json');
+const data = readJSON('places_new.json');
 
 // Her bir öğe için döngü
 data.forEach(function(item) {
-    // Her bir öğeye "country" özelliğini en üste ekle
-    item.country = "Spain";
+    // Eksik tag alanlarını ekleyin
+    if (!item.tag1) item.tag1 = "";
+    if (!item.tag2) item.tag2 = "";
+    if (!item.tag3) item.tag3 = "";
+    if (!item.hasOwnProperty('tag4')) item.tag4 = "";
 });
 
 // Güncellenmiş JSON'u dosyaya yaz
-writeJSON('alicente.json', data);
+writeJSON('places_new.json', data);
 
-console.log('JSON dosyasına "country: Turkey" özelliği en üst düzeye eklendi.');
+console.log('JSON dosyasına eksik tag alanları boş olarak eklendi.');
+
+// Tüm tag verilerini birleştirin
+const allTags = data.reduce(function(acc, item) {
+    acc.push(item.tag1, item.tag2, item.tag3, item.tag4);
+    return acc;
+}, []);
+
+// Benzersiz tag'leri filtreleyin
+const uniqueTags = [...new Set(allTags)];
+
+// Konsola benzersiz tag'leri yazdırın
+console.log('Unique Tags:');
+uniqueTags.forEach(tag => console.log(tag));
