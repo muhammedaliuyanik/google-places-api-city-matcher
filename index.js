@@ -238,15 +238,15 @@ function writeJSON(filename, data) {
 }
 
 // JSON dosyasını oku
-const data = readJSON('places_new.json');
+const data = readJSON('alicente.json');
 
 // Her bir öğe için döngü
 data.forEach(function(item) {
     // Her bir öğeye "country" özelliğini en üste ekle
-    item.country = "Turkey";
+    item.country = "Spain";
 });
 
 // Güncellenmiş JSON'u dosyaya yaz
-writeJSON('places_new.json', data);
+writeJSON('alicente.json', data);
 
 console.log('JSON dosyasına "country: Turkey" özelliği en üst düzeye eklendi.');
