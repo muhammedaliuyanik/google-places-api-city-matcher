@@ -1,9 +1,10 @@
+// reviews güncellendi.
 /*
 const fs = require('fs');
 const fetch = require('node-fetch');
 
 // Google Places API anahtarınız
-const apiKey = 'YOUR_API_KEY';
+const apiKey = 'AIzaSyB47VWFSvsgogEmQHUFGAjh1TfZFv0EM5E';
 
 // Yer detaylarını çekmek için fonksiyon
 async function getPlaceDetails(placeId) {
@@ -34,14 +35,19 @@ function addReviewsToJSON(reviews, placeId, placeName) {
             let existingReviews = JSON.parse(data);
             // Her bir incelemeyi dolaşarak yer bilgilerini ekleyin
             const reviewsWithPlaceInfo = reviews.map(review => {
-                return {
+                const reviewData = {
+                    userId: review.userId, // Kullanıcı ID'si
                     placeId: placeId,
                     placeName: placeName,
                     rating: review.rating,
                     comment: review.text,
-                    date: review.relative_time_description,
-                    photos: review.photos ? review.photos.map(photo => photo.photo_reference) : []
+                    date: review.relative_time_description
                 };
+                // Fotoğraf bilgisi varsa ekle
+                if (review.photos) {
+                    reviewData.photos = review.photos.map(photo => photo.photo_reference);
+                }
+                return reviewData;
             });
             // Yeni incelemeleri ekle
             existingReviews = existingReviews.concat(reviewsWithPlaceInfo);
@@ -58,6 +64,9 @@ function addReviewsToJSON(reviews, placeId, placeName) {
         }
     });
 }
+
+
+
 
 // places.json dosyasını oku
 fs.readFile('places.json', 'utf8', async (err, data) => {
@@ -215,3 +224,29 @@ fs.readFile('places.json', 'utf8', async (err, data) => {
     }
 });
 */
+
+const fs = require('fs');
+
+// JSON dosyasını okuma işlevi
+function readJSON(filename) {
+    return JSON.parse(fs.readFileSync(filename, 'utf8'));
+}
+
+// JSON dosyasını yazma işlevi
+function writeJSON(filename, data) {
+    fs.writeFileSync(filename, JSON.stringify(data, null, 2));
+}
+
+// JSON dosyasını oku
+const data = readJSON('places_new.json');
+
+// Her bir öğe için döngü
+data.forEach(function(item) {
+    // Her bir öğeye "country" özelliğini en üste ekle
+    item.country = "Turkey";
+});
+
+// Güncellenmiş JSON'u dosyaya yaz
+writeJSON('places_new.json', data);
+
+console.log('JSON dosyasına "country: Turkey" özelliği en üst düzeye eklendi.');
