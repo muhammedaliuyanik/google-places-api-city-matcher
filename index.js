@@ -225,7 +225,7 @@ fs.readFile('places.json', 'utf8', async (err, data) => {
 });
 */
     //google places api dan resim çekme
-/*
+
 const fs = require('fs');
 const axios = require('axios');
 
@@ -271,6 +271,6 @@ async function getImageUrl(locationName) {
 
     // Resmin URL'sini alın
     const photoReference = response.data.candidates[0].photos[0].photo_reference;
-    return `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${photoReference}&key=${apiKey}`;
+    return `https://maps.googleapis.com/maps/api/place/photo?maxwidth=1080&photoreference=${photoReference}&key=${apiKey}`;
 }
-*/
+
