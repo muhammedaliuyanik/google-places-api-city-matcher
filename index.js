@@ -224,45 +224,53 @@ fs.readFile('places.json', 'utf8', async (err, data) => {
     }
 });
 */
-
+    //google places api dan resim çekme
+/*
 const fs = require('fs');
+const axios = require('axios');
 
-// JSON dosyasını okuma işlevi
-function readJSON(filename) {
-    return JSON.parse(fs.readFileSync(filename, 'utf8'));
-}
+// JSON dosyasını okuyun
+fs.readFile('places_new.json', 'utf8', async (err, data) => {
+    if (err) {
+        console.error('Dosya okuma hatası:', err);
+        return;
+    }
 
-// JSON dosyasını yazma işlevi
-function writeJSON(filename, data) {
-    fs.writeFileSync(filename, JSON.stringify(data, null, 2));
-}
+    // JSON verisini parse edin
+    const places = JSON.parse(data);
 
-// JSON dosyasını oku
-const data = readJSON('places_new.json');
+    // Her bir location_name için resmin URL'sini alın
+    for (let i = 0; i < places.length; i++) {
+        const locationName = places[i].location_name;
+        try {
+            const imageUrl = await getImageUrl(locationName);
+            places[i].images = imageUrl;
+            console.log(`${locationName} için resim URL'si başarıyla alındı.`);
+        } catch (error) {
+            console.error(`${locationName} için resim URL'sini alırken bir hata oluştu:`, error);
+        }
+    }
 
-// Her bir öğe için döngü
-data.forEach(function(item) {
-    // Eksik tag alanlarını ekleyin
-    if (!item.tag1) item.tag1 = "";
-    if (!item.tag2) item.tag2 = "";
-    if (!item.tag3) item.tag3 = "";
-    if (!item.hasOwnProperty('tag4')) item.tag4 = "";
+    // Güncellenmiş veriyi dosyaya kaydedin
+    fs.writeFile('places_with_images.json', JSON.stringify(places, null, 2), err => {
+        if (err) {
+            console.error('Dosya yazma hatası:', err);
+            return;
+        }
+        console.log("'Yer verileri resim URL'leriyle birlikte başarıyla kaydedildi.'");
+    });
 });
 
-// Güncellenmiş JSON'u dosyaya yaz
-writeJSON('places_new.json', data);
+// Google Places API'yi kullanarak resmin URL'sini almak için fonksiyon
+async function getImageUrl(locationName) {
+    const apiKey = 'AIzaSyCE5YFqFaooJAn9WJSrqnojH_6kCCOzwts';
+    const apiUrl = `https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=${encodeURIComponent(locationName)}&inputtype=textquery&fields=photos&key=${apiKey}`;
 
-console.log('JSON dosyasına eksik tag alanları boş olarak eklendi.');
+    // API'ye istek gönderin
+    const response = await axios.get(apiUrl);
 
-// Tüm tag verilerini birleştirin
-const allTags = data.reduce(function(acc, item) {
-    acc.push(item.tag1, item.tag2, item.tag3, item.tag4);
-    return acc;
-}, []);
-
-// Benzersiz tag'leri filtreleyin
-const uniqueTags = [...new Set(allTags)];
-
-// Konsola benzersiz tag'leri yazdırın
-console.log('Unique Tags:');
-uniqueTags.forEach(tag => console.log(tag));
+    // Resmin URL'sini alın
+    const photoReference = response.data.candidates[0].photos[0].photo_reference;
+    return `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${photoReference}&key=${apiKey}`;
+}
+*/
